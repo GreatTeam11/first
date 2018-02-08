@@ -1,7 +1,7 @@
 package com.company;
 
 public class Main {
-    int x;
+    int xx;
 
     public static void main(String[] args) {
         System.out.println("刘恒");
